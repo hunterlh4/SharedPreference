@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SharedPreference</string>
+
+    <string-array name="ListaTamaño">
+        <item>Seleccione el tamaño</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+    </string-array>
+
+    <string-array name="ListaFuentes">
+        <item>Seleccione la fuente</item>
+        <item>Times New Roman</item>
+        <item>Arial</item>
+        <item>Algerian</item>
+        <item>Harlow Solid Italic</item>
+        <item>Berlin Sans FB</item>
+    </string-array>
+
+    <string-array name="Listacolor">
+        <item>Seleccione un color</item>
+        <item>rojo</item>
+        <item>azul</item>
+        <item>amarillo</item>
+        <item>verde</item>
+        <item>negro</item>
+    </string-array>
+</resources>
